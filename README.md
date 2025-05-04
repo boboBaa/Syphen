@@ -8,10 +8,7 @@ you should get Syphen because it is easy, reilable, and new UI every so update
 
 
 # CAN YOU TAKE CODE
-Yes, you may take code but Syphen falls under the GPL 3 license which means
-# any code from here must be under the GPL 3 Licesne and must be credited 
-
-# it also must be open source
-
+No, We never put a license on Syphen so it can fall under the default copyright rules
+which means you cant distribute, copy, or sell Syphen.
 
 Downloads are in Releases
