@@ -11,6 +11,11 @@ this is Syphen 0.03
 
 We want this to be advanced inside but simple on UI
 
+And then we have the upcoming frequntly updated Syphen Premium
+![image](https://github.com/user-attachments/assets/fe1ac5f1-4ed0-4b12-91b6-66fda7c6b7ee)
+Which gets updated quicker and is keyless
+
+
 # CAN YOU TAKE CODE
 No, We never put a license on Syphen so it can fall under the default copyright rules
 which means you cant distribute, copy, or sell Syphen.
