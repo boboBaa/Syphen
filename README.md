@@ -14,6 +14,7 @@ We want this to be advanced inside but simple on UI
 And then we have the upcoming frequntly updated Syphen Premium
 ![image](https://github.com/user-attachments/assets/fe1ac5f1-4ed0-4b12-91b6-66fda7c6b7ee)
 Which gets updated quicker and is keyless
+Install link: https://www.patreon.com/boboAC/shop/syphen-premium-1608210?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=productshare_creator&utm_content=join_link
 
 
 # CAN YOU TAKE CODE
