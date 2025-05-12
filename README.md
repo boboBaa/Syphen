@@ -7,11 +7,11 @@ it uses the Xeno api plus our Api to give the most simple experience.
 you should get Syphen because it is easy, reilable, and new UI every so update
 
 ![image](https://github.com/user-attachments/assets/bdc27cdc-cb43-4edf-ab92-ac4c9b147018)
-this is Syphen 0.03
+this is Syphen 0.03 or Syphen Lite
 
 We want this to be advanced inside but simple on UI
 
-And then we have the upcoming frequntly updated Syphen Premium
+And then we have the upcoming frequntly updated Syphen Standerd or Premium depending on your tier.
 ![image](https://github.com/user-attachments/assets/fe1ac5f1-4ed0-4b12-91b6-66fda7c6b7ee)
 Which gets updated way quicker
 Install link: https://www.patreon.com/boboAC/shop/syphen-premium-1608210?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=productshare_creator&utm_content=join_link
